@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Reusable Product Names</title>
+ <keydef keys="product">
+  <topicmeta>
+   <keywords>
+    <keyword product="X1000">X1000®</keyword>
+    <keyword product="X2000">X2000®</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+</map>

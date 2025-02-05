@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_2bh_hl5_qf">
+  <title>Introduction </title>
+  <prolog>
+    <author/>
+    <metadata/>
+  </prolog>
+  <body>
+    <p audience="BasicUser" product="X1000">This user guide is focused on <ph keyref="product"/>
+      describing features and functionality of your mobile phone.</p>
+  </body>
+</topic>

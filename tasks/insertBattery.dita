@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ww1_fh3_rf">
+    <title>Inserting the
+        battery<?oxy_insert_start author="Alex Jitianu" timestamp="20210803T084453+0000"?>
+        changed<?oxy_insert_end?></title>
+    <shortdesc><?oxy_insert_start author="Alex Jitianu" timestamp="20220414T144653+0000"?>A new
+        short description<?oxy_insert_end?></shortdesc>
+    <taskbody>
+        <context>
+            <?oxy_insert_start author="Alex Jitianu" timestamp="20220414T144700+0000"?>
+            <ol id="ol_bzy_dsg_ftb">
+                <li>Item 1</li>
+            </ol>
+            <?oxy_insert_end?>
+            <p>Before proceeding
+                w<?oxy_delete author="Alex Jitianu" timestamp="20210803T084431+0000" content="ith these steps, make sure that your "?>mobile
+                phone is turned
+                off.<?oxy_insert_start author="Alex Jitianu" timestamp="20220421T070003+0000"?>asasd<?oxy_insert_end?></p>
+        </context>
+        <steps>
+            <step id="firstStep">
+                <cmd> Insert the battery into
+                    <?oxy_insert_start author="alex_jitianu" timestamp="20220411T191722+0300"?>
+                    tracked <?oxy_insert_end?>the battery compartment.
+                    <?oxy_delete author="Alex Jitianu" timestamp="20220421T065950+0000" content="See the following im"?>age:
+                        <image href="../image/insertBattery.jpg" id="image_j5s_bnl_wf"
+                        placement="break"/></cmd>
+            </step>
+            <step id="lastStep">
+                <cmd>Put the back
+                    <?oxy_comment_start author="Alex Jitianu" timestamp="20210803T084440+0000" comment="asdas" id="r1q_bvd_mqb"?><?oxy_comment_start author="Alex Jitianu" timestamp="20210803T084445+0000" parentID="r1q_bvd_mqb" comment="reply" mid="1"?>cover
+                    on. Make sure it is clo<?oxy_comment_end mid="1"?><?oxy_comment_end?>sed
+                    firmly.</cmd>
+            </step>
+            <step>
+                <cmd>asdasdasd</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
